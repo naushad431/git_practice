@@ -1,3 +1,6 @@
 public class hello{
-    say();
+    
+    public static void display(){
+        System.out.println("Hello");
+    }
 }
